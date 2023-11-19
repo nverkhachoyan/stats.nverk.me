@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "whats up.md",
+                "file": "Welcome Aboard!.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whats up.md",
+                "file": "Welcome Aboard!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "whats up.md",
+                "file": "Welcome Aboard!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "whats up.md"
+                "file": "Welcome Aboard!.md"
               }
             }
           }
@@ -156,6 +156,10 @@
   },
   "active": "b10fbcf3df24bee0",
   "lastOpenFiles": [
-    "whats up.md"
+    "README.md",
+    "Welcome Aboard!.md",
+    "The Basics/Sampling and Point Estimates.md",
+    "The Basics",
+    "Welcome"
   ]
 }
