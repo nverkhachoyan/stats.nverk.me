@@ -1,8 +1,5 @@
 root: ./
 
-​structure:  
-    readme: Welcome Aboard!.md  
-    summary: SUMMARY.md​
-
-redirects:  
-    previous/page: new-folder/page.md
+structure:
+  readme: README.md
+  summary: SUMMARY.md
