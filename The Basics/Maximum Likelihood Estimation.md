@@ -1,3 +1,5 @@
+The intuition behind Maximum Likelihood Estimation (MLE) and the calculus process involved in deriving it.
+
 1. **Overview of Maximum Likelihood Estimation (MLE)**
    - MLE is a method used for estimating the parameters of a statistical model.
    - It involves finding the parameter values that make the observed data most probable under the assumed statistical model.
@@ -23,3 +25,7 @@
 5. **Example of MLE in Practice**
    - Suppose you have a set of data and assume it is normally distributed. You would use MLE to estimate the mean ($$ \mu $$) and variance ($$ \sigma^2 $$) of this distribution.
    - The likelihood function in this case would be based on the normal distribution formula, and you would maximize this function with respect to $$ \mu $$ and $$ \sigma^2 $$ using the steps outlined above.
+
+
+
+
